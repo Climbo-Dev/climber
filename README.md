@@ -1,2 +1,2 @@
 # climber
-A R toolbox for data manipulation and visualization
+An R toolbox for data manipulation and visualization
